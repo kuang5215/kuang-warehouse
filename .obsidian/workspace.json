@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "测试23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "测试23"
             }
           }
         ],
@@ -203,7 +203,7 @@
   "active": "34dff35f9d9a59c6",
   "lastOpenFiles": [
     "测试.md",
-    "未命名.md",
+    "测试23.md",
     "测试2.md",
     "新建 文本文档.txt"
   ]
